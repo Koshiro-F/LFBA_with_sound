@@ -200,3 +200,6 @@ data/
 *.log
 
 .python-version
+
+# 勉強用フォルダ
+learn_pytorch
